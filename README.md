@@ -1,5 +1,7 @@
 # Unity Easy Map Creator
-#### ![Unity Easy Map Creator](img.png)
+<p align="center">
+  <img src="img.png" alt="Unity Easy Map Creator Logo" height="200">
+</p>
 
 ## Overview
 
