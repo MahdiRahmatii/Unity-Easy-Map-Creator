@@ -20,7 +20,7 @@ Unity Easy Map Creator is a tool for generating map images from Unity scenes. Th
 
 1. Create an object and assign the EasyMapCreator.cs component to it
 2. Now follow the steps
-![Unity Easy Map Creator Steps](steps.png)
+#### . ![Unity Easy Map Creator Steps](steps.png)
 
 ## Example Scene
 
