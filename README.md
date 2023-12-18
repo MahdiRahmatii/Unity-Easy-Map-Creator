@@ -11,7 +11,9 @@ Unity Easy Map Creator is a tool for generating map images from Unity scenes. Th
 
 - **Automated Map Generation**: Quickly generate map images based on your Unity scene.
 - **Customization**: Adjust settings to customize the appearance of the generated map.
-
+  - **Custom Color**: Choose custom colors to represent different elements in your map.
+  - **Outline**: Add outlines to enhance the visibility and aesthetics of map elements.
+  
 ## Getting Started
 
 ### Installation
