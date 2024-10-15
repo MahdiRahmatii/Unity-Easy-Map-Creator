@@ -29,6 +29,9 @@ Clone the repository or Import the package
 2. Now follow the steps
 #### . ![Unity Easy Map Creator Steps](imgs/steps.png)
 
+After clicking the "Create Map" button, you can track the process
+#### . ![Unity Easy Map Creator Logs](imgs/log.png)
+
 ## Example Scene
 
 Explore the demo scene provided in the Demo folder to see Easy Map Creator in action.
