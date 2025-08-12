@@ -35,3 +35,9 @@ After clicking the "Create Map" button, you can track the process
 ## Example Scene
 
 Explore the demo scene provided in the Demo folder to see Easy Map Creator in action.
+
+---
+
+Made with ❤️ for Unity developers
+
+If this plugin helped your project, consider giving it a ⭐ on GitHub!
